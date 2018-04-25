@@ -1,0 +1,150 @@
+Student: Got the shovel
+Student: Hole 1 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 1
+Student: Hole 2 Dug
+Student: Letting go of the shovel
+TA: Got the shovel
+Professor: All be advised that I have completed planting hole 2
+TA: The hole 1 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 2 has been filled
+TA: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 3 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 3
+Student: Hole 4 Dug
+Student: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 3 has been filled
+TA: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 4
+Student: Hole 5 Dug
+Student: Letting go of the shovel
+TA: Got the shovel
+Professor: All be advised that I have completed planting hole 5
+TA: The hole 4 has been filled
+TA: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 6 Dug
+Student: Letting go of the shovel
+TA: Got the shovel
+Professor: All be advised that I have completed planting hole 6
+TA: The hole 5 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 6 has been filled
+TA: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 7 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 7
+Student: Hole 8 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 8
+Student: Hole 9 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 10 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 9
+Student: Hole 11 Dug
+Student: Letting go of the shovel
+Student: Must wait for TA 5 holes ahead
+TA: Got the shovel
+Professor: All be advised that I have completed planting hole 10
+Professor: All be advised that I have completed planting hole 11
+TA: The hole 7 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 8 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 9 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 10 has been filled
+TA: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 12 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 12
+Student: Hole 13 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 13
+Student: Hole 14 Dug
+Student: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 11 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+Professor: All be advised that I have completed planting hole 14
+TA: The hole 12 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 13 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 14 has been filled
+TA: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 15 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 15
+Student: Hole 16 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 17 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 16
+Student: Hole 18 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 17
+Student: Hole 19 Dug
+Student: Letting go of the shovel
+Student: Must wait for TA 5 holes ahead
+TA: Got the shovel
+Professor: All be advised that I have completed planting hole 18
+Professor: All be advised that I have completed planting hole 19
+TA: The hole 15 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 16 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 17 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 18 has been filled
+TA: Letting go of the shovel
+TA: Got the shovel
+TA: The hole 19 has been filled
+TA: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 20 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 21 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Student: Hole 22 Dug
+Student: Letting go of the shovel
+Student: Got the shovel
+Professor: All be advised that I have completed planting hole 20
+Professor: All be advised that I have completed planting hole 21
+Professeur: We have worked enough for today
+TA is done
+Student is done
